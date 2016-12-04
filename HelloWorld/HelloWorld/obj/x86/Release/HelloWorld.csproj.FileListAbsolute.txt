@@ -1,0 +1,2 @@
+C:\aula\first.project\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe
+C:\aula\first.project\HelloWorld\HelloWorld\obj\x86\Release\HelloWorld.exe
